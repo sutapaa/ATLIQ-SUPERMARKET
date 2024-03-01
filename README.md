@@ -9,38 +9,38 @@
 **Tools used for this project:** 
 1. MYSQL for generating reports for ad-hoc requests.
 2. Power BI for our data analysis & data visualizations.
-3.Microsoft Powerpoint for creating an impactful presentation with insights generated.
+3. Microsoft Powerpoint for creating an impactful presentation with insights generated.
  
 
 **Key Insights:**
-1.BOGOF and cashback offers drove the highest revenue and sales.
+1. BOGOF and cashback offers drove the highest revenue and sales.
 
-2.Grocery & staplesHome appliances and home care were top-selling categories.
+2. Grocery & staplesHome appliances and home care were top-selling categories.
 
-3.Bengaluru, Chennai, and Mysuru were revenue leaders.
+3. Bengaluru, Chennai, and Mysuru were revenue leaders.
 
-4.Diwali promotions had high IQC, while Sankranti promotions flopped.
+4. Diwali promotions had high IQC, while Sankranti promotions flopped.
 
-5.BOGOF offers were universally appealing.
+5. BOGOF offers were universally appealing.
 
-6.Atliq Home Essential 8 product combo was the bestseller.
+6. Atliq Home Essential 8 product combo was the bestseller.
 
-7.500 Cashback promotions struck the best balance.
+7. 500 Cashback promotions struck the best balance.
 
 
 **Recommendations:**
 
-1.Offer more bundles across categories.
+1. Offer more bundles across categories.
 
-2.Stick with BOGOF and cashback offers.
+2. Stick with BOGOF and cashback offers.
 
-3.Shift to gifts or loyalty rewards.
+3. Shift to gifts or loyalty rewards.
 
-4.Promote BOGOF & Cashback: Advertise for savings.
+4. Promote BOGOF & Cashback: Advertise for savings.
 
-5.Customize for events.
+5. Customize for events.
 
-6.Improve displays and recommendations.
+6. Improve displays and recommendations.
 
 
 
