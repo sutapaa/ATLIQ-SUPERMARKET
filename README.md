@@ -7,7 +7,6 @@
 **OBJECTIVE:** The primary objective is to analyze the performance of promotions during festivals on AtliQ branded products across these supermarkets, determining their success in informed decision-making.
 
 **Tools used for this project:** 
-
 1. MYSQL for generating reports for ad-hoc requests.
 2. Power BI for our data analysis & data visualizations.
 3.Microsoft Powerpoint for creating an impactful presentation with insights generated.
