@@ -1,5 +1,6 @@
 # ATLIQ-SUPERMARKET SALES ANALYSIS PROJECT DURING FESTIVE PROMOTIONS
 **Domain: FMCG Function: Sales / Promotions**
+**Function: Sales/ Promotions**
 
 **ABOUT DATASET:** AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of India. All 50 stores ran a massive promotion during Diwali 2023 and Sankranti 2024 on their AtliQ branded products.Now the sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.
 
